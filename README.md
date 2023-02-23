@@ -1,2 +1,3 @@
-# B64EncoderAndDecoder
-A Base 64 Text Encoder And Decoder Made In Python
+# Base64 Text Encoder And Decoder
+
+[![Python]([https://img.shields.io/badge/Python-white?logo=python]()
